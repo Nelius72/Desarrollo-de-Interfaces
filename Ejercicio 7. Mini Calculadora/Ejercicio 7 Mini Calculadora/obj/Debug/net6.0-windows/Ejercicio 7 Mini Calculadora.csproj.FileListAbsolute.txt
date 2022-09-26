@@ -1,0 +1,17 @@
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\bin\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.exe
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\bin\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.deps.json
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\bin\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.runtimeconfig.json
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\bin\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.dll
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\bin\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.pdb
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.csproj.AssemblyReference.cache
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio_7_Mini_Calculadora.Form1.resources
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.csproj.GenerateResource.cache
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.AssemblyInfoInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.AssemblyInfo.cs
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.dll
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\refint\Ejercicio 7 Mini Calculadora.dll
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.pdb
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\Ejercicio 7 Mini Calculadora.genruntimeconfig.cache
+C:\Users\mañana\source\repos\Ejercicio 7 Mini Calculadora\Ejercicio 7 Mini Calculadora\obj\Debug\net6.0-windows\ref\Ejercicio 7 Mini Calculadora.dll
