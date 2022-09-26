@@ -68,10 +68,10 @@
             // labelResultado
             // 
             this.labelResultado.AutoSize = true;
-            this.labelResultado.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelResultado.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.labelResultado.Location = new System.Drawing.Point(392, 206);
             this.labelResultado.Name = "labelResultado";
-            this.labelResultado.Size = new System.Drawing.Size(70, 15);
+            this.labelResultado.Size = new System.Drawing.Size(97, 21);
             this.labelResultado.TabIndex = 2;
             this.labelResultado.Text = "Resultados:";
             // 
