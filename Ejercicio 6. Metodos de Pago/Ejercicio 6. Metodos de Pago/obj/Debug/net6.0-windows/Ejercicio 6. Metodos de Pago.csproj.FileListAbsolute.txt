@@ -1,0 +1,17 @@
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\bin\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.exe
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\bin\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.deps.json
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\bin\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.runtimeconfig.json
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\bin\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.dll
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\bin\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.pdb
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.csproj.AssemblyReference.cache
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio_6._Metodos_de_Pago.Form1.resources
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.csproj.GenerateResource.cache
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.AssemblyInfoInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.AssemblyInfo.cs
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.dll
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\refint\Ejercicio 6. Metodos de Pago.dll
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.pdb
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\Ejercicio 6. Metodos de Pago.genruntimeconfig.cache
+C:\Users\mañana\source\repos\Ejercicio 6. Metodos de Pago\Ejercicio 6. Metodos de Pago\obj\Debug\net6.0-windows\ref\Ejercicio 6. Metodos de Pago.dll
