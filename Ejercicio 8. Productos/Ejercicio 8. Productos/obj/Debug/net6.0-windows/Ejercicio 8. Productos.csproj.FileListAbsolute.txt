@@ -1,0 +1,17 @@
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\bin\Debug\net6.0-windows\Ejercicio 8. Productos.exe
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\bin\Debug\net6.0-windows\Ejercicio 8. Productos.deps.json
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\bin\Debug\net6.0-windows\Ejercicio 8. Productos.runtimeconfig.json
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\bin\Debug\net6.0-windows\Ejercicio 8. Productos.dll
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\bin\Debug\net6.0-windows\Ejercicio 8. Productos.pdb
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.csproj.AssemblyReference.cache
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio_8._Productos.Form1.resources
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.csproj.GenerateResource.cache
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.AssemblyInfoInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.AssemblyInfo.cs
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.dll
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\refint\Ejercicio 8. Productos.dll
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.pdb
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\Ejercicio 8. Productos.genruntimeconfig.cache
+C:\Users\mañana\source\repos\Ejercicio 8. Productos\Ejercicio 8. Productos\obj\Debug\net6.0-windows\ref\Ejercicio 8. Productos.dll
