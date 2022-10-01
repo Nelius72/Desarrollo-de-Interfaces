@@ -1,0 +1,17 @@
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\bin\Debug\net6.0-windows\Ejercicio11. Votaciones.exe
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\bin\Debug\net6.0-windows\Ejercicio11. Votaciones.deps.json
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\bin\Debug\net6.0-windows\Ejercicio11. Votaciones.runtimeconfig.json
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\bin\Debug\net6.0-windows\Ejercicio11. Votaciones.dll
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\bin\Debug\net6.0-windows\Ejercicio11. Votaciones.pdb
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.csproj.AssemblyReference.cache
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11._Votaciones.Form1.resources
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.csproj.GenerateResource.cache
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.AssemblyInfoInputs.cache
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.AssemblyInfo.cs
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.csproj.CoreCompileInputs.cache
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.dll
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\refint\Ejercicio11. Votaciones.dll
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.pdb
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\Ejercicio11. Votaciones.genruntimeconfig.cache
+C:\Users\Neli\source\repos\Ejercicio11. Votaciones\Ejercicio11. Votaciones\obj\Debug\net6.0-windows\ref\Ejercicio11. Votaciones.dll
