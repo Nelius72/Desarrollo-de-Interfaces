@@ -39,6 +39,10 @@
             this.labelSi = new System.Windows.Forms.Label();
             this.labelNo = new System.Windows.Forms.Label();
             this.labelNs = new System.Windows.Forms.Label();
+            this.labelProgreso = new System.Windows.Forms.Label();
+            this.progressBarSi = new System.Windows.Forms.ProgressBar();
+            this.progressBarNo = new System.Windows.Forms.ProgressBar();
+            this.progressBarNs = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
             // 
             // radioButtonSi
@@ -158,11 +162,47 @@
             this.labelNs.TabIndex = 13;
             this.labelNs.Text = "0";
             // 
+            // labelProgreso
+            // 
+            this.labelProgreso.AutoSize = true;
+            this.labelProgreso.Font = new System.Drawing.Font("Segoe UI", 13F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
+            this.labelProgreso.Location = new System.Drawing.Point(449, 13);
+            this.labelProgreso.Name = "labelProgreso";
+            this.labelProgreso.Size = new System.Drawing.Size(88, 25);
+            this.labelProgreso.TabIndex = 14;
+            this.labelProgreso.Text = "Progreso";
+            // 
+            // progressBarSi
+            // 
+            this.progressBarSi.Location = new System.Drawing.Point(412, 61);
+            this.progressBarSi.Name = "progressBarSi";
+            this.progressBarSi.Size = new System.Drawing.Size(160, 23);
+            this.progressBarSi.TabIndex = 15;
+            // 
+            // progressBarNo
+            // 
+            this.progressBarNo.Location = new System.Drawing.Point(412, 119);
+            this.progressBarNo.Name = "progressBarNo";
+            this.progressBarNo.Size = new System.Drawing.Size(160, 23);
+            this.progressBarNo.TabIndex = 16;
+            // 
+            // progressBarNs
+            // 
+            this.progressBarNs.Location = new System.Drawing.Point(412, 184);
+            this.progressBarNs.Name = "progressBarNs";
+            this.progressBarNs.Size = new System.Drawing.Size(160, 23);
+            this.progressBarNs.TabIndex = 17;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(337, 281);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(618, 288);
+            this.Controls.Add(this.progressBarNs);
+            this.Controls.Add(this.progressBarNo);
+            this.Controls.Add(this.progressBarSi);
+            this.Controls.Add(this.labelProgreso);
             this.Controls.Add(this.labelNs);
             this.Controls.Add(this.labelNo);
             this.Controls.Add(this.labelSi);
@@ -195,5 +235,9 @@
         private Label labelSi;
         private Label labelNo;
         private Label labelNs;
+        private Label labelProgreso;
+        private ProgressBar progressBarSi;
+        private ProgressBar progressBarNo;
+        private ProgressBar progressBarNs;
     }
 }
