@@ -35,6 +35,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.buttonAñadir = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.buttonModificar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -84,7 +85,7 @@
             // buttonAñadir
             // 
             this.buttonAñadir.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.buttonAñadir.Location = new System.Drawing.Point(510, 122);
+            this.buttonAñadir.Location = new System.Drawing.Point(510, 64);
             this.buttonAñadir.Name = "buttonAñadir";
             this.buttonAñadir.Size = new System.Drawing.Size(150, 70);
             this.buttonAñadir.TabIndex = 3;
@@ -96,11 +97,23 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // buttonModificar
+            // 
+            this.buttonModificar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.buttonModificar.Location = new System.Drawing.Point(510, 182);
+            this.buttonModificar.Name = "buttonModificar";
+            this.buttonModificar.Size = new System.Drawing.Size(150, 70);
+            this.buttonModificar.TabIndex = 4;
+            this.buttonModificar.Text = "Modificar Datos";
+            this.buttonModificar.UseVisualStyleBackColor = true;
+            this.buttonModificar.Click += new System.EventHandler(this.buttonModificar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonModificar);
             this.Controls.Add(this.buttonAñadir);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.labelNota);
@@ -122,5 +135,6 @@
         private Button button1;
         private Button buttonAñadir;
         private OpenFileDialog openFileDialog1;
+        private Button buttonModificar;
     }
 }

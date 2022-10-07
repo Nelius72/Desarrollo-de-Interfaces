@@ -19,11 +19,23 @@ namespace EjercicioTable
             media = media / (dataGridView1.RowCount - 1);
             labelNota.Text = "La nota media es: "+media.ToString();
         }
-private void buttonAñadir_Click(object sender, EventArgs e)
+        private void buttonAñadir_Click(object sender, EventArgs e)
         {
-            Form2Alta alta=new Form2Alta(dataGridView1); //Referenciamos a la nueva ventana el dataGridView
+            Form2Alta alta=new Form2Alta(dataGridView1); //Referenciamos a la nueva ventana el dataGridView y le pasamos la tabla entera
             alta.ShowDialog();
 
+        }
+
+        private void buttonModificar_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows != null)
+            {
+             Form2Alta alta = new Form2Alta(dataGridView1); //Ventana que sale al clicar modificacion
+
+
+             alta.ShowDialog();
+            }
+           
         }
     }
 }
