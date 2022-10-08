@@ -44,6 +44,9 @@ namespace Ejercicio11._Votaciones
             labelNo.Text = porcentajeNo.ToString();
             labelNs.Text = porcentajeNs.ToString();
             label2.Text = contador.ToString();
+            progressBarSi.Value = (int)porcentajeSi;
+            progressBarNo.Value = (int)porcentajeNo;
+            progressBarNs.Value = (int)porcentajeNs;
         }
     }
 }
