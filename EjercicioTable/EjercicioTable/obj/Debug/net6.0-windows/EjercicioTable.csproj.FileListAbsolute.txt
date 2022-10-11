@@ -35,4 +35,7 @@ C:\Users\Neli\source\repos\Desarrollo-de-Interfaces\EjercicioTable\EjercicioTabl
 C:\Users\Neli\source\repos\Desarrollo-de-Interfaces\EjercicioTable\EjercicioTable\obj\Debug\net6.0-windows\EjercicioTable.genruntimeconfig.cache
 C:\Users\Neli\source\repos\Desarrollo-de-Interfaces\EjercicioTable\EjercicioTable\obj\Debug\net6.0-windows\ref\EjercicioTable.dll
 C:\Users\Neli\source\repos\Desarrollo-de-Interfaces\EjercicioTable\EjercicioTable\obj\Debug\net6.0-windows\EjercicioTable.Form3Modif.resources
+<<<<<<< HEAD
 C:\Users\mañana\source\repos\EjercicioTable\EjercicioTable\obj\Debug\net6.0-windows\EjercicioTable.Form3Modif.resources
+=======
+>>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c

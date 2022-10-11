@@ -6,7 +6,11 @@ namespace EjercicioTable
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         int index=0;
+=======
+        int index;
+>>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c
         private void button1_Click(object sender, EventArgs e)
         {
             string notas="";
@@ -40,6 +44,7 @@ namespace EjercicioTable
            
         }
 
+<<<<<<< HEAD
       
 
         private void buttonEliminar_Click(object sender, EventArgs e)
@@ -81,6 +86,13 @@ namespace EjercicioTable
                 buttonModificar.Enabled = true;
                 buttonEliminar.Enabled = true;
             }
+=======
+       private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+          
+            
+          
+>>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c
         }
     }
 }

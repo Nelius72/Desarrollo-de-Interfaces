@@ -29,10 +29,29 @@ namespace EjercicioTable
            
         }
 
+<<<<<<< HEAD
       
         private void buttonActualizar_Click(object sender, EventArgs e)
         {
            
+=======
+       // private void buttonAct_Click(object sender, EventArgs e)
+       // {
+            
+      //  }
+
+       // private void button1Act_Click(object sender, EventArgs e)
+       // {
+       //     string modifName = textBoxModif.Text;
+        //    string modifNote = textBox1Modif.Text;
+
+         //   oreja.Rows.Clear();
+         //   oreja.Rows.Add(modifName, modifNote);
+       // }
+
+        private void buttonActualizar_Click(object sender, EventArgs e)
+        {
+>>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c
             DataGridViewRow newData = oreja.SelectedRows[index];
             newData.Cells[0].Value = textBox1Modif.Text;
             newData.Cells[1].Value = textBoxModif.Text;
