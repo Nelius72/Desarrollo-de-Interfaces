@@ -18,14 +18,6 @@ namespace EjercicioTable
             InitializeComponent();
             nuevo = d;
         }
-        
-
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            
-        }
-
         private void buttonAñadir_Click(object sender, EventArgs e)
         {
             string nombre=textBox1.Text;

@@ -6,11 +6,7 @@ namespace EjercicioTable
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
         int index=0;
-=======
-        int index;
->>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c
         private void button1_Click(object sender, EventArgs e)
         {
             string notas="";
@@ -43,10 +39,6 @@ namespace EjercicioTable
             }
            
         }
-
-<<<<<<< HEAD
-      
-
         private void buttonEliminar_Click(object sender, EventArgs e)
         {
            var result= MessageBox.Show("¿Desea eliminar la información?", "Atención!!", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
@@ -61,19 +53,6 @@ namespace EjercicioTable
             }
 
         }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            //dataGridView1.ClearSelection();
-
-            
-        }
-
         private void dataGridView1_CellEnter(object sender, DataGridViewCellEventArgs e)
         { //Con esto gestionamos que cuando no haya una fila seleccionada los botones estén apagados
             if (dataGridView1.Rows[0].IsNewRow)
@@ -86,13 +65,6 @@ namespace EjercicioTable
                 buttonModificar.Enabled = true;
                 buttonEliminar.Enabled = true;
             }
-=======
-       private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-          
-            
-          
->>>>>>> 402bed43a65f6a0a8d3b82e14a86ad5f08c1df4c
         }
     }
 }

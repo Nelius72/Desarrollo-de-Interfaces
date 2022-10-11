@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Neli\\.nuget\\packages\\": {}
+    "C:\\Users\\mañana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neli\\source\\repos\\Desarrollo-de-Interfaces\\EjercicioTable\\EjercicioTable\\EjercicioTable.csproj",
+      "projectUniqueName": "C:\\Users\\mañana\\source\\repos\\EjercicioTable\\EjercicioTable\\EjercicioTable.csproj",
       "projectName": "EjercicioTable",
-      "projectPath": "C:\\Users\\Neli\\source\\repos\\Desarrollo-de-Interfaces\\EjercicioTable\\EjercicioTable\\EjercicioTable.csproj",
-      "packagesPath": "C:\\Users\\Neli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neli\\source\\repos\\Desarrollo-de-Interfaces\\EjercicioTable\\EjercicioTable\\obj\\",
+      "projectPath": "C:\\Users\\mañana\\source\\repos\\EjercicioTable\\EjercicioTable\\EjercicioTable.csproj",
+      "packagesPath": "C:\\Users\\mañana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mañana\\source\\repos\\EjercicioTable\\EjercicioTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Neli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
