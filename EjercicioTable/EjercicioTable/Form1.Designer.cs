@@ -36,20 +36,26 @@
             this.buttonAñadir = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.buttonModificar = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.buttonEliminar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
             this.Column2});
-            this.dataGridView1.Location = new System.Drawing.Point(77, 35);
+            this.dataGridView1.Location = new System.Drawing.Point(83, 87);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(240, 328);
+            this.dataGridView1.Size = new System.Drawing.Size(373, 233);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEnter);
             // 
             // Column1
             // 
@@ -65,7 +71,7 @@
             // 
             this.labelNota.AutoSize = true;
             this.labelNota.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelNota.Location = new System.Drawing.Point(510, 299);
+            this.labelNota.Location = new System.Drawing.Point(297, 376);
             this.labelNota.Name = "labelNota";
             this.labelNota.Size = new System.Drawing.Size(100, 21);
             this.labelNota.TabIndex = 1;
@@ -73,24 +79,27 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.LightCoral;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(510, 355);
+            this.button1.Location = new System.Drawing.Point(97, 351);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(150, 70);
             this.button1.TabIndex = 2;
             this.button1.Text = "Calcular Media";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // buttonAñadir
             // 
-            this.buttonAñadir.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.buttonAñadir.BackColor = System.Drawing.Color.SandyBrown;
+            this.buttonAñadir.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.buttonAñadir.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.buttonAñadir.Location = new System.Drawing.Point(510, 64);
             this.buttonAñadir.Name = "buttonAñadir";
             this.buttonAñadir.Size = new System.Drawing.Size(150, 70);
             this.buttonAñadir.TabIndex = 3;
             this.buttonAñadir.Text = "Añadir Datos";
-            this.buttonAñadir.UseVisualStyleBackColor = true;
+            this.buttonAñadir.UseVisualStyleBackColor = false;
             this.buttonAñadir.Click += new System.EventHandler(this.buttonAñadir_Click);
             // 
             // openFileDialog1
@@ -99,20 +108,46 @@
             // 
             // buttonModificar
             // 
-            this.buttonModificar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.buttonModificar.BackColor = System.Drawing.Color.SandyBrown;
+            this.buttonModificar.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.buttonModificar.Location = new System.Drawing.Point(510, 182);
             this.buttonModificar.Name = "buttonModificar";
             this.buttonModificar.Size = new System.Drawing.Size(150, 70);
             this.buttonModificar.TabIndex = 4;
             this.buttonModificar.Text = "Modificar Datos";
-            this.buttonModificar.UseVisualStyleBackColor = true;
+            this.buttonModificar.UseVisualStyleBackColor = false;
             this.buttonModificar.Click += new System.EventHandler(this.buttonModificar_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(665, 414);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(8, 8);
+            this.button2.TabIndex = 5;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // buttonEliminar
+            // 
+            this.buttonEliminar.BackColor = System.Drawing.Color.SandyBrown;
+            this.buttonEliminar.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.buttonEliminar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.buttonEliminar.Location = new System.Drawing.Point(510, 302);
+            this.buttonEliminar.Name = "buttonEliminar";
+            this.buttonEliminar.Size = new System.Drawing.Size(150, 70);
+            this.buttonEliminar.TabIndex = 6;
+            this.buttonEliminar.Text = "Eliminar Datos";
+            this.buttonEliminar.UseVisualStyleBackColor = false;
+            this.buttonEliminar.Click += new System.EventHandler(this.buttonEliminar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonEliminar);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.buttonModificar);
             this.Controls.Add(this.buttonAñadir);
             this.Controls.Add(this.button1);
@@ -120,6 +155,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -136,5 +172,7 @@
         private Button buttonAñadir;
         private OpenFileDialog openFileDialog1;
         private Button buttonModificar;
+        private Button button2;
+        private Button buttonEliminar;
     }
 }

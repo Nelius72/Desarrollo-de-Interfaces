@@ -32,6 +32,7 @@ namespace EjercicioTable
             string nota=textBox2.Text;
      
             nuevo.Rows.Add(nombre,nota); //Añadimos los valores a la tabla de la otra ventana
+            Close();
             
         }
 
