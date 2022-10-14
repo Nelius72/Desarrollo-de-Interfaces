@@ -1,0 +1,18 @@
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\bin\Debug\net6.0-windows\Práctica Ahorcado.exe
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\bin\Debug\net6.0-windows\Práctica Ahorcado.deps.json
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\bin\Debug\net6.0-windows\Práctica Ahorcado.runtimeconfig.json
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\bin\Debug\net6.0-windows\Práctica Ahorcado.dll
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\bin\Debug\net6.0-windows\Práctica Ahorcado.pdb
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.csproj.AssemblyReference.cache
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica_Ahorcado.Form1.resources
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica_Ahorcado.Properties.Resources.resources
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.csproj.GenerateResource.cache
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.AssemblyInfoInputs.cache
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.AssemblyInfo.cs
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.dll
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\refint\Práctica Ahorcado.dll
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.pdb
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\Práctica Ahorcado.genruntimeconfig.cache
+C:\Users\mañana\source\repos\Práctica Ahorcado\Práctica Ahorcado\obj\Debug\net6.0-windows\ref\Práctica Ahorcado.dll
